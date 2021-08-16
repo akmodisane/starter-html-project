@@ -23,7 +23,7 @@ $ npm install --save-dev browser-sync
 
 $ npm install postcss-cli autoprefixer --save
 
-# I have created two folders other for source code and other for production
+# I have created two folders other for source code and other for production code
 
 gulpfile.js
 
