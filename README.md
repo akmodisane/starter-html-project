@@ -39,3 +39,7 @@ package.json
 
 ── src/scss/style.scss
 
+# How to run starter command
+
+$ gulp watch
+
